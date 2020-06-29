@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingtutorials",
+    "prod_uri": "mysql://root:@localhost/codingtutorials",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "The coding Tutorials!!",
+    "sub": "Best Coding Tutorials Website",
+    "gmail-user":"lovedell1234@gmail.com",
+    "gmail-password":"Dell@1234",
+    "about_text":"i am a good boy",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "aman",
+    "admin_password": "1234",
+    "upload_location": "D:\\User Materials\\PyCharm\\Programs\\flask\\static"
+  }
+}
